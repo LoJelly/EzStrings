@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['ezstring_0',['EzString',['../d5/d2d/struct_ez_string.html',1,'']]],
-  ['ezstrings_1',['EzStrings',['../d9/d89/struct_ez_strings.html',1,'']]]
+  ['ez_5fstring_0',['ez_string',['../d3/dd5/structez__string.html',1,'']]],
+  ['ez_5fstrings_1',['ez_strings',['../d3/dcc/structez__strings.html',1,'']]]
 ];
